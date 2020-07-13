@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hey there :wave:
+
+![Hello world](resources/banner.png)
+
+I'm Sagar Viradiya.
 
 <!--
 **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
